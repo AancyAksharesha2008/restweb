@@ -19,7 +19,7 @@ body{
     top: 0;
     @media(any-hover: hover){
         a:hover{
-            background-color: pink;
+            background-color:;
         }
     }
     margin-top: 40px;
